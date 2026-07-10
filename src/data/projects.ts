@@ -88,7 +88,7 @@ export const projects: Project[] = [
 
   {
     id: "ggskippynutroll",
-    title: "GG x Skippy Nut Roll",
+    title: "Genius Gourmet X Skippy Nut Roll",
     tags: ["Brand Identity"],
     description: "Visual identity and packaging design for the Genius Gourmet x Skippy Nut Roll collaboration. The branding seamlessly fuses nostalgic indulgence with functional nutrition, transforming a classic comfort food into a modern, high-protein snack that balances craving and wellness..",
     year: "2025",
@@ -102,7 +102,7 @@ export const projects: Project[] = [
   },
   {
     id: "sparklingprotein",
-    title: "Sparkling Protein",
+    title: "Genius Gourmet Sparkling Protein",
     tags: ["Brand Identity"],
     description: "Visual identity and packaging design designed to disrupt the functional beverage market. The branding shifts protein drinks away from their chalky, supplement-root origins into a sleek, vibrant lifestyle essential focused on modern wellness.",
     year: "2025",
@@ -117,7 +117,7 @@ export const projects: Project[] = [
 
   {
     id: "cookiebiteprotein",
-    title: "Protein Cookie Bites",
+    title: "Genius Gourmet Protein Cookie Bites",
     tags: ["Brand Identity"],
     description: "Visual identity and packaging design developed from the ground up for a premium snack line. The branding reimagines a bakery classic into a modern, macro-friendly treat, balancing clean, health-focused aesthetics with the indulgent, shelf-popping appeal of a classic sweet snack.",
     year: "2024",
@@ -145,7 +145,7 @@ export const projects: Project[] = [
   },
   {
     id: "proteinpuff",
-    title: "Protein Puffs",
+    title: "Genius Gourmet Protein Puffs",
     tags: ["Brand Identity"],
     description: "A ground-up visual identity and packaging design for a savory, functional snack line. The branding elevates a familiar comfort snack into a sleek, modern wellness option.",
     year: "2025",
@@ -215,7 +215,7 @@ export const projects: Project[] = [
   },
   {
     id: "skippyprint",
-    title: "Skippy Sales Sheets",
+    title: "Genius Gourmet X Skippy Sales Sheets",
     tags: ["Print & Illustration"],
     description: "Strategic print design and marketing collateral developed to launch the high-profile retail collaboration. The project features a cohesive ecosystem of sales sheets and promotional postcards, leveraging sleek typography and bold product photography to communicate value propositions, drive wholesale buyer engagement, and maximize retail distribution.",
     year: "2025",
@@ -229,7 +229,7 @@ export const projects: Project[] = [
   },
   {
     id: "icelaxprint",
-    title: "ICE LAX Sales Sheets",
+    title: "Secondslide Sales Sheets",
     tags: ["Print & Illustration"],
     description: "High-impact print design and sales collateral developed to showcase custom team uniform programs. The project utilizes clean layouts, structured data presentation, and dynamic apparel graphics to provide sales teams with a premium, easy-to-navigate tool that streamlines the custom ordering process for coaches and leagues.",
     year: "2026",
