@@ -7,7 +7,26 @@ import { Mail, MapPin, Instagram, Linkedin, Dribbble } from "lucide-react";
 
 const About = () => {
   const location = useLocation();
+  useEffect(() => {
+    if (location.hash === "#contact") {
+      const element = document.getElementById("contact");
+      if (element) {
+        const timer = setTimeout(() => {
+          // Fallback calculation for bulletproof mobile scrolling
+          const topOffset = element.getBoundingClientRect().top + window.pageYOffset;
+          window.scrollTo({
+            top: topOffset,
+            behavior: "smooth"
+          });
+        }, 300); // Slightly longer delay to let mobile Chrome paint the DOM
+        return () => clearTimeout(timer);
+      }
+    } else {
+      window.scrollTo(0, 0);
+    }
+  }, [location]);
 
+  
   useEffect(() => {
     if (location.hash === "#contact") {
       const element = document.getElementById("contact");
