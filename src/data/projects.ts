@@ -91,7 +91,7 @@ export const projects: Project[] = [
     title: "GG x Skippy Nut Roll",
     tags: ["Brand Identity"],
     description: "Visual identity and packaging design for the Genius Gourmet x Skippy Nut Roll collaboration. The branding seamlessly fuses nostalgic indulgence with functional nutrition, transforming a classic comfort food into a modern, high-protein snack that balances craving and wellness..",
-    year: "2021",
+    year: "2025",
     client: "Genius Gourmet",
     images: [
       nutrollSplash,
@@ -105,7 +105,7 @@ export const projects: Project[] = [
     title: "Sparkling Protein",
     tags: ["Brand Identity"],
     description: "Visual identity and packaging design designed to disrupt the functional beverage market. The branding shifts protein drinks away from their chalky, supplement-root origins into a sleek, vibrant lifestyle essential focused on modern wellness.",
-    year: "2021",
+    year: "2025",
     client: "Genius Gourmet",
     images: [
       sparkleSplash,
@@ -120,7 +120,7 @@ export const projects: Project[] = [
     title: "Protein Cookie Bites",
     tags: ["Brand Identity"],
     description: "Visual identity and packaging design developed from the ground up for a premium snack line. The branding reimagines a bakery classic into a modern, macro-friendly treat, balancing clean, health-focused aesthetics with the indulgent, shelf-popping appeal of a classic sweet snack.",
-    year: "2021",
+    year: "2024",
     client: "Genius Gourmet",
     images: [
       cookieSplash,
@@ -134,7 +134,7 @@ export const projects: Project[] = [
     title: "Faceoff Factory",
     tags: ["Brand Identity"],
     description: "Comprehensive team branding and apparel design for a six-team lacrosse league. The project involved creating distinct jersey designs, custom typography, and dynamic logo systems for each franchise, resulting in a cohesive yet fiercely competitive visual identity across the entire league.",
-    year: "2018",
+    year: "2026",
     client: "Secondslide",
     images: [
       faceoffsplash,
@@ -148,7 +148,7 @@ export const projects: Project[] = [
     title: "Protein Puffs",
     tags: ["Brand Identity"],
     description: "A ground-up visual identity and packaging design for a savory, functional snack line. The branding elevates a familiar comfort snack into a sleek, modern wellness option.",
-    year: "2021",
+    year: "2025",
     client: "Genius Gourmet",
     images: [
       puffSplash,
@@ -175,7 +175,7 @@ export const projects: Project[] = [
     id: "xylichew",
     title: "Xylichew Gum",
     tags: ["Brand Identity"],
-    year: "2021",
+    year: "2025",
     description: "A comprehensive overhaul of the visual identity for Xylichew, a sugar-free, 100% xylitol-based chewing gum. The new design shifts the brand away from a purely medicinal or clinical \"health-food aisle\" look toward a vibrant, lifestyle-oriented aesthetic that emphasizes crisp, natural freshness and dental wellness.",
     client: "Nature's Stance",
     images: [
@@ -190,7 +190,7 @@ export const projects: Project[] = [
     title: "Cotton Mouth Mints",
     tags: ["Brand Identity"],
     description: "A comprehensive visual identity concept for Cotton Mouth Mints, Gum, and Sours, capturing a nature-forward stance tailored specifically for a younger demographic. The new design shifts the product away from the traditional, clinical \"dry-mouth remedy\" look toward a vibrant, lifestyle-oriented aesthetic that positions natural relief as a trendy, everyday wellness essential for a Gen Z and Millennial audience.",
-    year: "2021",
+    year: "2024",
     client: "Nature's Stance",
     images: [
       cottonSplash,
@@ -204,7 +204,7 @@ export const projects: Project[] = [
     title: "Bee Propolis Nasal Spray",
     tags: ["Brand Identity"],
     description: "A ground-up design and visual identity for a premium Bee Propolis Nasal Spray. The branding shifts propolis away from its traditional, old-fashioned 'apothecary' roots into a sleek, modern wellness essential.",
-    year: "2021",
+    year: "2024",
     client: "Nature's Stance",
     images: [
       beeSplash,
@@ -218,7 +218,7 @@ export const projects: Project[] = [
     title: "Skippy Sales Sheets",
     tags: ["Print & Illustration"],
     description: "Strategic print design and marketing collateral developed to launch the high-profile retail collaboration. The project features a cohesive ecosystem of sales sheets and promotional postcards, leveraging sleek typography and bold product photography to communicate value propositions, drive wholesale buyer engagement, and maximize retail distribution.",
-    year: "2021",
+    year: "2025",
     client: "Genius Gourmet x Skippy",
     images: [
       skippyprintsplash,
@@ -232,7 +232,7 @@ export const projects: Project[] = [
     title: "ICE LAX Sales Sheets",
     tags: ["Print & Illustration"],
     description: "High-impact print design and sales collateral developed to showcase custom team uniform programs. The project utilizes clean layouts, structured data presentation, and dynamic apparel graphics to provide sales teams with a premium, easy-to-navigate tool that streamlines the custom ordering process for coaches and leagues.",
-    year: "2021",
+    year: "2026",
     client: "Secondslide",
     images: [
       icelaxsplash,
@@ -246,7 +246,7 @@ export const projects: Project[] = [
     title: "Homesearch Brochure and Catalog",
     tags: ["Print & Illustration"],
     description: "Editorial layout and print design for a minimalist real estate catalog and marketing brochure.",
-    year: "2021",
+    year: "2018",
     client: "Homesearch",
     images: [
       homesearchsplash,
@@ -260,7 +260,7 @@ export const projects: Project[] = [
     title: "American Fork Billboard",
     tags: ["Print & Illustration"],
     description: "High-impact outdoor advertising design developed for the City of American Fork, Utah. The project features clean typography, bold community messaging, and an intentional visual hierarchy engineered for immediate legibility and maximum engagement at a distance.",
-    year: "2021",
+    year: "2024",
     client: "American Fork",
     images: [
       forksplash,
@@ -274,7 +274,7 @@ export const projects: Project[] = [
     title: "Various Illustrations",
     tags: ["Print & Illustration"],
     description: "A series of custom illustrations and graphic assets developed for youth soccer uniforms. The project blends dynamic, high-energy sports illustration with technical apparel design, creating a versatile visual toolkit engineered to scale seamlessly across jerseys, training gear, and team merchandise.",
-    year: "2021",
+    year: "2026",
     client: "Various",
     images: [
       illussplash,
@@ -288,7 +288,7 @@ export const projects: Project[] = [
     title: "OJ Slashers",
     tags: ["Print & Illustration"],
     description: "Illustration and apparel design for a standalone baseball lifestyle t-shirt.",
-    year: "2021",
+    year: "2026",
     client: "Youth Gold Baseball",
     images: [
       slasherssplash,
@@ -302,7 +302,7 @@ export const projects: Project[] = [
     title: "Rakin' Bacon",
     tags: ["Print & Illustration"],
     description: "Illustration and apparel design for a standalone baseball lifestyle t-shirt.",
-    year: "2021",
+    year: "2026",
     client: "Youth Gold Baseball",
     images: [
       rakinsplash,
@@ -316,7 +316,7 @@ export const projects: Project[] = [
     title: "T-Shirt Illustrations",
     tags: ["Print & Illustration"],
     description: "Illustration and apparel design for Pressure Grappling Jiu Jitsu",
-    year: "2021",
+    year: "2019",
     client: "Various",
     images: [
       jjsplash,
@@ -330,7 +330,7 @@ export const projects: Project[] = [
     title: "Various Banners and Web Design",
     tags: ["Digital & Web"],
     description: "A curated selection of web design layouts and high-impact digital banner campaigns. The project highlights a versatile approach to digital branding, balancing clean user-interface design with strategic visual hierarchy to optimize click-through rates, drive user engagement, and maintain brand consistency.",
-    year: "2021",
+    year: "",
     client: "Various",
     images: [
       digitalsplash,
