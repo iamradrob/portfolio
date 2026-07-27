@@ -359,7 +359,7 @@ export const projects: Project[] = [
   {
     id: "csusamples",
     title: "CSU",
-    tags: ["CSU Samples"],
+    tags: ["CSU Examples"],
     description: "A few examples of woodworking and physical objects ",
     year: "",
     client: "Various",
