@@ -5,7 +5,7 @@ import Navbar from "@/components/Navbar";
 import FloatingNav from "@/components/FloatingNav";
 
 const ProjectIndex = () => {
-  const [selectedCategory, setSelectedCategory] = useState<string>("everything");
+  const [selectedCategory, setSelectedCategory] = useState<string>("Everything");
   const sectionRef = useRef<HTMLElement>(null);
   const [isVisible, setIsVisible] = useState(false);
 
@@ -27,7 +27,7 @@ const ProjectIndex = () => {
   }, []);
 
   const filteredProjects = useMemo(() => {
-    if (selectedCategory === "everything") {
+    if (selectedCategory === "Everything") {
       return projects;
     }
     return projects.filter((project) =>
