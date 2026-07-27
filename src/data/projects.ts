@@ -61,6 +61,8 @@ import csuspread11 from "@/assets/csu/csuspread-11.jpg";
 import csuspread12 from "@/assets/csu/csuspread-12.jpg";
 import csuspread13 from "@/assets/csu/csuspread-13.jpg";
 import csuspread14 from "@/assets/csu/csuspread-14.jpg";
+import csuspread15 from "@/assets/csu/csuspread-15.jpg";
+import csuspread16 from "@/assets/csu/csuspread-16.jpg";
 
 
 
@@ -378,7 +380,9 @@ export const projects: Project[] = [
       csuspread11,
       csuspread12,
       csuspread13,
-      csuspread14
+      csuspread14,
+      csuspread15,
+      csuspread16
     ],
     color: "#A855F7",
     aspectRatio: "portrait"
