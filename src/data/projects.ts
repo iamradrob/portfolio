@@ -382,7 +382,7 @@ export const projects: Project[] = [
       csuspread13,
       csuspread14,
       csuspread15,
-      csuspread16
+      csuspread16,
     ],
     color: "#A855F7",
     aspectRatio: "portrait"
