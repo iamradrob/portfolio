@@ -46,6 +46,23 @@ import slasherssplash from "@/assets/illustrations/slasherssplash.jpg";
 import slashersspread from "@/assets/illustrations/slashersspread.jpg";
 import digitalsplash from "@/assets/digital/digitalsplash.jpg";
 import digitalspread from "@/assets/digital/digitalspread.jpg";
+import csusplash from "@/assets/csu/csusplash.jpg";
+import csuspread01 from "@/assets/csu/csuspread-01.jpg";
+import csuspread02 from "@/assets/csu/csuspread-02.jpg";
+import csuspread03 from "@/assets/csu/csuspread-03.jpg";
+import csuspread04 from "@/assets/csu/csuspread-04.jpg";
+import csuspread05 from "@/assets/csu/csuspread-05.jpg";
+import csuspread06 from "@/assets/csu/csuspread-06.jpg";
+import csuspread07 from "@/assets/csu/csuspread-07.jpg";
+import csuspread08 from "@/assets/csu/csuspread-08.jpg";
+import csuspread09 from "@/assets/csu/csuspread-09.jpg";
+import csuspread10 from "@/assets/csu/csuspread-10.jpg";
+import csuspread11 from "@/assets/csu/csuspread-11.jpg";
+import csuspread12 from "@/assets/csu/csuspread-12.jpg";
+import csuspread13 from "@/assets/csu/csuspread-13.jpg";
+import csuspread14 from "@/assets/csu/csuspread-14.jpg";
+
+
 
 
 export interface Project {
@@ -335,6 +352,33 @@ export const projects: Project[] = [
     images: [
       digitalsplash,
       digitalspread
+    ],
+    color: "#A855F7",
+    aspectRatio: "portrait"
+  },
+  {
+    id: "csusamples",
+    title: "CSU",
+    tags: ["CSU Samples"],
+    description: "A few examples of woodworking and physical objects ",
+    year: "",
+    client: "Various",
+    images: [
+      csusplash,
+      csuspread01,
+      csuspread02,
+      csuspread03,
+      csuspread04,
+      csuspread05,
+      csuspread06,
+      csuspread07,
+      csuspread08,
+      csuspread09,
+      csuspread10,
+      csuspread11,
+      csuspread12,
+      csuspread13,
+      csuspread14
     ],
     color: "#A855F7",
     aspectRatio: "portrait"
